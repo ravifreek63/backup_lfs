@@ -1,0 +1,13 @@
+Details of with_crash.txt:
+Transaction 1 writes 10 a's.
+Transaction 2 writes 12 b's.
+The transaction 2 crashes in the with_crash.txt. 
+Transaction 3 reads 7 bytes from the file.
+Final Result on read should give 7 a's.
+
+
+Details of without_crash.txt:
+Transaction 1 writes 10 a's.
+Transaction 2 writes 12 b's.
+Transaction 3 reads 7 bytes from the file.
+Final Result on read should give 7 b's.

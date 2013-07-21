@@ -1,0 +1,28 @@
+In folder Traces:
+
+1. list_files.c lists the pool of files and directories of the file system to be backed up and also on which transactions will act.
+	The path to root of this file system must be given as an argument to the executable i,e list_files.
+	The files are stored in the randon access file files.txt
+
+2. files.txt can be read using the executable read_files as we cannot directly read a random access file.
+
+3. rand_trace1 generates the transaction traces. The operation of this transaction selects files, operations etc absolutely randomly. With no locality of reference.
+
+4. there will be as many trace files as the specified degree of concurrency. Within each file there will be many transactions one after another. Total number of transactions in all the files will be total to the total number of transactions specified. When one transaction is over another is executeed . thus keeping the degree of concurrency stable.
+
+5. read_rand_trace reads traces from the trace file. Have to modify the trace file name within the program.
+
+
+In folder server:
+
+1. Contains the server code and to compile just do ./execute and ./TxFS 3000 to run
+
+2. In Reader.c you will have to chnage the number of transactions whenever the count changes as one connection is started for every transaction.
+
+In folder client:
+
+1. Contains the client code.
+
+2. In simulator there will be as many processes fired as there is number of trace file +1(backup).
+
+3. each process will read trace from one file and simulate the transaction. 

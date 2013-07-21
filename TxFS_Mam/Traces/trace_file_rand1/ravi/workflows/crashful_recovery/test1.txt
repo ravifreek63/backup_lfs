@@ -1,0 +1,10 @@
+2
+txn_beg()
+2
+creat(/yaffs2/file.txt,S_IRUSR|S_IWUSR)
+2
+open(/yaffs2/file.txt,O_RDWR)
+2
+write(/yaffs2/file.txt,210)
+2
+txn_commit()

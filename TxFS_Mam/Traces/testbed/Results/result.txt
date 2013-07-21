@@ -1,0 +1,41 @@
+100:start:1333050544:311897:
+4:257:2048:TypeId:Object Id:Size of File::1333050544:316088:
+3:1:2048:TypeId:SubTypeId:Block Size::1333050544:316192:
+3:2:32:1:TypeId:SubTypeId:Tag Size::1333050544:316206:
+1:1:257:t_bmap:TypeId:SubTypeId:ObjectId:FileName::1333050544:316241:
+5:New Abort Rate::1333050551:283424:
+10:1:4:txn_begin:Id=4::1333050551:283548:
+3:1:2048:TypeId:SubTypeId:Block Size::1333050551:439827:
+3:2:32:4:TypeId:SubTypeId:Tag Size::1333050551:439851:
+2:2:258:file.txt:500:TypeId=Chunk:SubTypeId=Data:ObjectId=258:FileName=file.txt:FileSize=500::1333050551:439862:
+6:500:258:Type=FileSize:FileSize=500:ObjectID=258:1333050551:439872:
+10:2:4:txn_commit:Id=4::1333050551:479720:
+10:2:4:txn_commit:Id=4::1333050551:479783:
+5:New Abort Rate::1333050551:521230:
+10:1:5:txn_begin:Id=5::1333050551:521364:
+10:2:5:txn_commit:Id=5::1333050551:720651:
+10:2:5:txn_commit:Id=5::1333050551:720702:
+4:258:500:TypeId:Object Id:Size of File::1333050551:720753:
+3:1:2048:TypeId:SubTypeId:Block Size::1333050551:720844:
+3:2:32:5:TypeId:SubTypeId:Tag Size::1333050551:720859:
+1:2:258:file.txt:TypeId:SubTypeId:ObjectId:FileName::1333050551:720868:
+5:New Abort Rate::1333050570:983408:
+10:1:4:txn_begin:Id=4::1333050570:983520:
+3:1:2048:TypeId:SubTypeId:Block Size::1333050571:139968:
+3:2:32:4:TypeId:SubTypeId:Tag Size::1333050571:139991:
+2:2:258:file.txt:500:TypeId=Chunk:SubTypeId=Data:ObjectId=258:FileName=file.txt:FileSize=500::1333050571:140004:
+6:500:258:Type=FileSize:FileSize=500:ObjectID=258:1333050571:140014:
+10:2:4:txn_commit:Id=4::1333050571:181440:
+10:2:4:txn_commit:Id=4::1333050571:181495:
+4:258:500:TypeId:Object Id:Size of File::1333050571:181546:
+3:1:2048:TypeId:SubTypeId:Block Size::1333050571:181639:
+3:2:32:4:TypeId:SubTypeId:Tag Size::1333050571:181654:
+1:2:258:file.txt:TypeId:SubTypeId:ObjectId:FileName::1333050571:181663:
+5:New Abort Rate::1333050571:220018:
+10:1:5:txn_begin:Id=5::1333050571:220150:
+10:2:5:txn_commit:Id=5::1333050571:420396:
+10:2:5:txn_commit:Id=5::1333050571:420445:
+4:258:500:TypeId:Object Id:Size of File::1333050571:420494:
+3:1:2048:TypeId:SubTypeId:Block Size::1333050571:420587:
+3:2:32:5:TypeId:SubTypeId:Tag Size::1333050571:420603:
+1:2:258:file.txt:TypeId:SubTypeId:ObjectId:FileName::1333050571:420612:

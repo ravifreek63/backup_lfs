@@ -1,0 +1,16 @@
+6
+txn_beg()
+6
+open(/yaffs2/file.txt,O_RDWR)
+6
+write(/yaffs2/file.txt,500)
+6
+txn_commit()
+7
+txn_beg()
+7
+open(/yaffs2/file.txt,O_RDWR)
+7
+read(/yaffs2/file.txt,100)
+7
+txn_commit()

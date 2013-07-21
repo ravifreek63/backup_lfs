@@ -1,0 +1,492 @@
+
+ 1   34 /media/New Volume/Lipika_FS/March
+ 2   54 /media/New Volume/Lipika_FS/March/Progress Report.pdf
+ 3   43 /media/New Volume/Lipika_FS/March/Sep_2009
+ 4   52 /media/New Volume/Lipika_FS/March/Sep_2009/karp.pdf
+ 5   50 /media/New Volume/Lipika_FS/March/Sep_2009/Backup
+ 6   74 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Dymanic data structures
+ 7   128 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Dymanic data structures/concurrency control in a dynamic search structure.pdf
+ 8   141 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Dymanic data structures/on maintaining dynamic information in a concurrent environment.pdf
+ 9   127 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Dymanic data structures/Index Concurrency Control in Firm Real-Time DBMS.pdf
+ 10   90 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Dymanic data structures/p45-buckley.pdf
+ 11   124 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Dymanic data structures/concurrent manipulation of binary search tree.pdf
+ 12   71 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Temporal consistency
+ 13   130 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Temporal consistency/maintaining temporal consistency_Issies and algorithms.pdf
+ 14   151 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Temporal consistency/Experimental evaluation of real time optimistic concurrency control schemes.pdf
+ 15   128 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Temporal consistency/How well can data temporal consistency be maintained.pdf
+ 16   117 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Temporal consistency/On Consistent reading of entire databases.pdf
+ 17   111 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Temporal consistency/Online reorganization of a database.pdf
+ 18   103 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/Parallel High Speed Backup For A SAN File System.pdf
+ 19   60 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009
+ 20   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup2.bbl
+ 21   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/order of file operation.aux
+ 22   71 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.tex
+ 23   98 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/theory of non flat file structure.aux
+ 24   84 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.bbl
+ 25   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm2.blg
+ 26   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.tex.bak
+ 27   92 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/file operation mappings.tex.bak
+ 28   89 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem1.tex.sav
+ 29   85 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem1.blg
+ 30   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm1.log
+ 31   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/file operation mappings.tex
+ 32   79 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm1.tex.bak
+ 33   98 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/theory of non flat file structure.tex
+ 34   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.tex.sav
+ 35   71 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.aux
+ 36   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm2.bbl
+ 37   109 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.blg
+ 38   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/order of file operation.tex
+ 39   86 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem1.tex~
+ 40   113 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.tex.bak
+ 41   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.pdf
+ 42   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.bbl
+ 43   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.tex
+ 44   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.aux
+ 45   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/file operation mappings.blg
+ 46   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup2.log
+ 47   85 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem1.aux
+ 48   95 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Theory with flat file strucure.tex
+ 49   84 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.log
+ 50   95 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Theory with flat file strucure.log
+ 51   84 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.blg
+ 52   79 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm2.tex.bak
+ 53   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm1.aux
+ 54   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/file operation mappings.pdf
+ 55   98 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/theory of non flat file structure.blg
+ 56   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/file operation mappings.log
+ 57   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm1.pdf
+ 58   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup2.aux
+ 59   71 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.pdf
+ 60   84 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.aux
+ 61   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/File_gb.pdf
+ 62   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.log
+ 63   109 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.tex
+ 64   102 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/theory of non flat file structure.tex.bak
+ 65   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm2.pdf
+ 66   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm1.blg
+ 67   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.tex.sav
+ 68   109 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.aux
+ 69   71 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.blg
+ 70   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.tex.bak
+ 71   85 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem1.pdf
+ 72   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup2.blg
+ 73   85 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem1.bbl
+ 74   71 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.log
+ 75   98 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/theory of non flat file structure.bbl
+ 76   98 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/theory of non flat file structure.pdf
+ 77   98 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/theory of non flat file structure.log
+ 78   76 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/GB_comments.pdf
+ 79   84 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.tex
+ 80   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm2.aux
+ 81   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm1.bbl
+ 82   109 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.pdf
+ 83   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm2.tex
+ 84   95 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Theory with flat file strucure.pdf
+ 85   109 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.log
+ 86   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/file operation mappings.bbl
+ 87   85 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem1.tex
+ 88   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup2.pdf
+ 89   92 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/order of file operation.tex.bak
+ 90   71 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.bbl
+ 91   102 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/theory of non flat file structure.tex.sav
+ 92   89 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem1.tex.bak
+ 93   84 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.pdf
+ 94   113 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.tex.sav
+ 95   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/file operation mappings.aux
+ 96   76 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.tex.sav
+ 97   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/order of file operation.log
+ 98   95 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Theory with flat file strucure.aux
+ 99   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm2.log
+ 100   75 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm1.tex
+ 101   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/order of file operation.pdf
+ 102   89 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Dynamic database dumping.pdf
+ 103   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.blg
+ 104   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/order of file operation.blg
+ 105   85 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem1.log
+ 106   109 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.bbl
+ 107   88 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/order of file operation.bbl
+ 108   76 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.tex.bak
+ 109   72 /media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup2.tex
+ 110   67 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009
+ 111   78 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.tex
+ 112   90 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.tex.bak
+ 113   108 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.bbl
+ 114   78 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.aux
+ 115   108 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.log
+ 116   105 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).aux
+ 117   105 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).blg
+ 118   86 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.bbl
+ 119   86 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.log
+ 120   86 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.aux
+ 121   112 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.tex.bak
+ 122   78 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.pdf
+ 123   86 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.pdf
+ 124   89 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/file system traversal
+ 125   115 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/file system traversal/File System Traversal.pdf
+ 126   86 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files
+ 127   100 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index_004.css
+ 128   94 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/ajax.js
+ 129   100 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index_002.php
+ 130   99 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/mwsuggest.js
+ 131   116 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/poweredby_mediawiki_88x31.png
+ 132   100 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index_005.css
+ 133   98 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/wikibits.js
+ 134   100 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index_003.css
+ 135   107 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/wikimedia-button.png
+ 136   100 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index_002.css
+ 137   97 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/shared.css
+ 138   103 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/centralnotice.js
+ 139   95 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/main.css
+ 140   96 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index.css
+ 141   99 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/main_002.css
+ 142   96 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index.php
+ 143   102 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/commonPrint.css
+ 144   82 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.tex.sav
+ 145   108 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.aux
+ 146   78 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.blg
+ 147   82 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.tex.bak
+ 148   103 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Backup with Transactional NTFS.docx
+ 149   78 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.log
+ 150   105 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).bbl
+ 151   105 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).pdf
+ 152   86 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.blg
+ 153   105 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).tex
+ 154   109 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).tex.sav
+ 155   108 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.dvi
+ 156   109 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).tex.bak
+ 157   91 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09
+ 158   128 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/Operations beyond read and write.pdf
+ 159   120 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/lemma of cascading undo1.pdf
+ 160   113 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/imp for notations.pdf
+ 161   110 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/formalization2.pdf
+ 162   109 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/document6_new.pdf
+ 163   110 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/proof by graph.pdf
+ 164   109 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/File Movement.pdf
+ 165   108 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.tex
+ 166   108 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.pdf
+ 167   78 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.bbl
+ 168   108 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.blg
+ 169   105 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).log
+ 170   86 /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.tex
+ 171   60 /media/New Volume/Lipika_FS/March/Sep_2009/File_locking.htm
+ 172   74 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers
+ 173   87 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files
+ 174   101 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_004.css
+ 175   95 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/ajax.js
+ 176   110 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/20px-Wiki_letter_w.png
+ 177   101 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_002.php
+ 178   100 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/mwsuggest.js
+ 179   117 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/poweredby_mediawiki_88x31.png
+ 180   101 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_005.css
+ 181   99 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/wikibits.js
+ 182   105 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files
+ 183   119 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/index_004.css
+ 184   113 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/ajax.js
+ 185   119 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/index_002.php
+ 186   118 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/mwsuggest.js
+ 187   135 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/poweredby_mediawiki_88x31.png
+ 188   119 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/index_005.css
+ 189   117 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/wikibits.js
+ 190   119 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/index_003.css
+ 191   126 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/wikimedia-button.png
+ 192   119 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/index_002.css
+ 193   141 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/40px-Wikibooks-logo-en-noslogan.png
+ 194   116 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/shared.css
+ 195   122 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/centralnotice.js
+ 196   114 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/main.css
+ 197   127 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/40px-Commons-logo.png
+ 198   133 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/300px-DirectoryListing1.png
+ 199   115 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/index.css
+ 200   118 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/main_002.css
+ 201   115 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/index.php
+ 202   151 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/40px-Text_document_with_red_question_mark.png
+ 203   122 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/magnify-clip.png
+ 204   121 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/commonPrint.css
+ 205   139 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/30px-Wikimedia_Community_Logo.png
+ 206   101 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_003.css
+ 207   108 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/wikimedia-button.png
+ 208   101 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_002.css
+ 209   98 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/shared.css
+ 210   104 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/centralnotice.js
+ 211   96 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/main.css
+ 212   97 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index.css
+ 213   100 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/main_002.css
+ 214   97 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index.php
+ 215   103 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/commonPrint.css
+ 216   121 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/30px-Wikimedia_Community_Logo.png
+ 217   100 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/database file ssytems.pdf
+ 218   85 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs.htm
+ 219   108 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File System Hiearchy standard.pdf
+ 220   126 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Data management_Past Present and Futre_Jim Gray.pdf
+ 221   79 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS
+ 222   95 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy.htm
+ 223   88 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/NTFS.ppt
+ 224   97 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx.htm
+ 225   111 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/How NTFS File System Works.docx
+ 226   97 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/NTFS_concepts.pdf
+ 227   99 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/03-NTFSConcepts.pdf
+ 228   99 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files
+ 229   118 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/mtps-bn20090916.js
+ 230   111 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/jquery-1.js
+ 231   122 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/injection_nh_graph.css
+ 232   119 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/mtps-bn20090916.css
+ 233   125 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/Silverlight-bn20090916.js
+ 234   129 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/webtrendsscript-bn20090916.js
+ 235   128 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/omni_rsid_msdn-bn20090916.js
+ 236   114 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/WebResource.js
+ 237   109 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/clear.gif
+ 238   120 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/Jello-bn20090916.css
+ 239   121 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/global-bn20090916.css
+ 240   117 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data
+ 241   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125682FlightID75634TargetID2625S_002.gif
+ 242   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125688FlightID75640TargetID2878S_002.gif
+ 243   142 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/W_DevJAVA09_125x6003.gif
+ 244   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID237559FlightID151312TargetID1285Site.gif
+ 245   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125688FlightID75640TargetID2878S_003.gif
+ 246   131 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/iopsblank.gif
+ 247   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125688FlightID75640TargetID2878SiteI.gif
+ 248   132 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/120x600rev.swf
+ 249   136 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/featured_topic.gif
+ 250   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID224954FlightID138601TargetID6621Site.gif
+ 251   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID240707FlightID153361TargetID6619Site.gif
+ 252   138 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/additional_topic.gif
+ 253   128 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/125x60.gif
+ 254   131 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/resources.gif
+ 255   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125682FlightID75634TargetID2625S_003.gif
+ 256   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125682FlightID75634TargetID2625SiteI.gif
+ 257   138 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/msdn_dgpp_bottom.gif
+ 258   139 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/DartRichMedia_1_03.js
+ 259   182 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID240663FlightID153295TargetID6620Site.gif
+ 260   141 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/10759-79517-24754-1.gif
+ 261   128 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/skypeplugin_dropdownmenu.css
+ 262   116 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium.htm
+ 263   120 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/compositejscript2.js
+ 264   115 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/trans_pixel.gif
+ 265   127 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/MsdnMagazine-bn20090916.css
+ 266   123 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/injection_graph_func.js
+ 267   123 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/Magazine-bn20090916.css
+ 268   116 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/cc163388_002.gif
+ 269   112 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/SearchBox.js
+ 270   112 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/cc163388.gif
+ 271   99 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/ntfs_traversing.pdf
+ 272   97 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files
+ 273   111 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_004.css
+ 274   105 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/ajax.js
+ 275   120 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/injection_nh_graph.css
+ 276   111 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_002.php
+ 277   110 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/mwsuggest.js
+ 278   127 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/poweredby_mediawiki_88x31.png
+ 279   111 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_005.css
+ 280   109 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/wikibits.js
+ 281   111 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_003.css
+ 282   118 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/wikimedia-button.png
+ 283   111 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_002.css
+ 284   108 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/shared.css
+ 285   114 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/centralnotice.js
+ 286   126 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/skypeplugin_dropdownmenu.css
+ 287   106 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/main.css
+ 288   131 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/250px-Previous_Versions_Vista.png
+ 289   121 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/injection_graph_func.js
+ 290   107 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index.css
+ 291   110 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/main_002.css
+ 292   107 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index.php
+ 293   113 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/commonPrint.css
+ 294   90 /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system.htm
+ 295   47 /media/New Volume/Lipika_FS/March/January_2010
+ 296   56 /media/New Volume/Lipika_FS/March/January_2010/Writeups
+ 297   67 /media/New Volume/Lipika_FS/March/January_2010/Writeups/theory.pdf
+ 298   69 /media/New Volume/Lipika_FS/March/January_2010/Writeups/newshort.pdf
+ 299   68 /media/New Volume/Lipika_FS/March/January_2010/Writeups/sirsent.pdf
+ 300   68 /media/New Volume/Lipika_FS/March/January_2010/Writeups/theory1.pdf
+ 301   73 /media/New Volume/Lipika_FS/March/January_2010/Writeups/newshortver2.pdf
+ 302   61 /media/New Volume/Lipika_FS/March/January_2010/Remote backup
+ 303   90 /media/New Volume/Lipika_FS/March/January_2010/Remote backup/Online-backup-whitepaper.pdf
+ 304   88 /media/New Volume/Lipika_FS/March/January_2010/Remote backup/Guide to Online backup.pdf
+ 305   48 /media/New Volume/Lipika_FS/March/December_2009
+ 306   68 /media/New Volume/Lipika_FS/March/December_2009/for definitions.pdf
+ 307   55 /media/New Volume/Lipika_FS/March/December_2009/Papers
+ 308   75 /media/New Volume/Lipika_FS/March/December_2009/Papers/Camera_RdyFinal.pdf
+ 309   68 /media/New Volume/Lipika_FS/March/December_2009/Papers/tr-95-51.pdf
+ 310   74 /media/New Volume/Lipika_FS/March/December_2009/Papers/fs_performance.pdf
+ 311   71 /media/New Volume/Lipika_FS/March/December_2009/Papers/p492-fekete.pdf
+ 312   100 /media/New Volume/Lipika_FS/March/December_2009/Papers/analysis of network file system workload.pdf
+ 313   95 /media/New Volume/Lipika_FS/March/December_2009/Papers/analysis of journalling file system.pdf
+ 314   113 /media/New Volume/Lipika_FS/March/December_2009/Papers/can we really recover data if storage subsystem fails.pdf
+ 315   63 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010
+ 316   72 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Writeups
+ 317   83 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Writeups/theory.pdf
+ 318   90 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Writeups/Eurosysposter.pdf
+ 319   84 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Writeups/theory1.pdf
+ 320   89 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Transactions+file systems
+ 321   100 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Transactions+file systems/theory.pdf
+ 322   145 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Transactions+file systems/Transaction Support in a Log-Structured File System.pdf
+ 323   108 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Transactions+file systems/Margo's thesis.pdf
+ 324   104 /media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Transactions+file systems/spillane-1.pdf
+ 325   84 /media/New Volume/Lipika_FS/March/December_2009/Help in file transaction heuristics
+ 326   103 /media/New Volume/Lipika_FS/March/December_2009/Help in file transaction heuristics/p153-doraimani.pdf
+ 327   70 /media/New Volume/Lipika_FS/March/December_2009/Progress Presentation
+ 328   100 /media/New Volume/Lipika_FS/March/December_2009/Progress Presentation/Consistent Online Backup.pptx
+ 329   43 /media/New Volume/Lipika_FS/March/May_2009
+ 330   59 /media/New Volume/Lipika_FS/March/May_2009/latex documents
+ 331   69 /media/New Volume/Lipika_FS/March/May_2009/latex documents/steps.log
+ 332   69 /media/New Volume/Lipika_FS/March/May_2009/latex documents/steps.pdf
+ 333   69 /media/New Volume/Lipika_FS/March/May_2009/latex documents/steps.tex
+ 334   50 /media/New Volume/Lipika_FS/March/May_2009/hi.pdf
+ 335   54 /media/New Volume/Lipika_FS/March/Concurrency control
+ 336   64 /media/New Volume/Lipika_FS/March/Concurrency control/ACTA2.pdf
+ 337   65 /media/New Volume/Lipika_FS/March/Concurrency control/harder.pdf
+ 338   61 /media/New Volume/Lipika_FS/March/Concurrency control/gb.pdf
+ 339   73 /media/New Volume/Lipika_FS/March/Concurrency control/gb_13_feb_2009.pdf
+ 340   71 /media/New Volume/Lipika_FS/March/Concurrency control/GB_20_may_09.pdf
+ 341   68 /media/New Volume/Lipika_FS/March/Concurrency control/sdarticle.pdf
+ 342   73 /media/New Volume/Lipika_FS/March/Concurrency control/gb_16_jan_2009.pdf
+ 343   63 /media/New Volume/Lipika_FS/March/Concurrency control/tc02.pdf
+ 344   73 /media/New Volume/Lipika_FS/March/Concurrency control/semantic-first.pdf
+ 345   83 /media/New Volume/Lipika_FS/March/Concurrency control/relative serializability.pdf
+ 346   61 /media/New Volume/Lipika_FS/March/Concurrency control/hi.pdf
+ 347   68 /media/New Volume/Lipika_FS/March/Concurrency control/MergePDFs.pdf
+ 348   93 /media/New Volume/Lipika_FS/March/Concurrency control/semantic knowledge for concurrency.pdf
+ 349   64 /media/New Volume/Lipika_FS/March/Concurrency control/ACTA1.pdf
+ 350   59 /media/New Volume/Lipika_FS/March/Concurrency control/book
+ 351   72 /media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER3.pdf
+ 352   72 /media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER5.pdf
+ 353   72 /media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER7.pdf
+ 354   72 /media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER2.pdf
+ 355   72 /media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER8.pdf
+ 356   72 /media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER1.pdf
+ 357   72 /media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER4.pdf
+ 358   72 /media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER6.pdf
+ 359   72 /media/New Volume/Lipika_FS/March/Concurrency control/book/Contents.pdf
+ 360   68 /media/New Volume/Lipika_FS/March/Concurrency control/p5-liskov.pdf
+ 361   70 /media/New Volume/Lipika_FS/March/Concurrency control/p215-ammann.pdf
+ 362   70 /media/New Volume/Lipika_FS/March/Concurrency control/IEEEXplore1.pdf
+ 363   67 /media/New Volume/Lipika_FS/March/Concurrency control/p23-adya.pdf
+ 364   73 /media/New Volume/Lipika_FS/March/Concurrency control/journal-design.pdf
+ 365   79 /media/New Volume/Lipika_FS/March/Concurrency control/chopping transaction.pdf
+ 366   96 /media/New Volume/Lipika_FS/March/Concurrency control/dynamic adjustment of serializanility.pdf
+ 367   77 /media/New Volume/Lipika_FS/March/OReilly_Understanding_The_Linux_Kernel.pdf
+ 368   44 /media/New Volume/Lipika_FS/March/June_2009
+ 369   55 /media/New Volume/Lipika_FS/March/June_2009/Literature
+ 370   98 /media/New Volume/Lipika_FS/March/June_2009/Literature/Cumulus_Filesystem Backup to the Cloud.pdf
+ 371   119 /media/New Volume/Lipika_FS/March/June_2009/Literature/Further torture more testing of backup and archive programs.pdf
+ 372   88 /media/New Volume/Lipika_FS/March/June_2009/Literature/Survey of backup Techniques_1998
+ 373   74 /media/New Volume/Lipika_FS/March/June_2009/Literature/Disk shadowing.pdf
+ 374   103 /media/New Volume/Lipika_FS/March/June_2009/Literature/Torture-testing backup and archive programs.pdf
+ 375   115 /media/New Volume/Lipika_FS/March/June_2009/Literature/algoritnmic aspects of multiversion concurrency control.pdf
+ 376   74 /media/New Volume/Lipika_FS/March/June_2009/Literature/snapfs in ext3.pdf
+ 377   65 /media/New Volume/Lipika_FS/March/June_2009/Literature/dedup.pdf
+ 378   129 /media/New Volume/Lipika_FS/March/June_2009/Literature/Measuring the effectiveness of database backup and replication models.pdf
+ 379   111 /media/New Volume/Lipika_FS/March/June_2009/Literature/Efficient Distributed Backup with Delta Compression.pdf
+ 380   91 /media/New Volume/Lipika_FS/March/June_2009/Literature/mutiversion concurrency control.pdf
+ 381   108 /media/New Volume/Lipika_FS/March/June_2009/Literature/multi-version disk backup data merging algorithm.pdf
+ 382   65 /media/New Volume/Lipika_FS/March/June_2009/Literature/Venti.pdf
+ 383   93 /media/New Volume/Lipika_FS/March/June_2009/Literature/The Amanda Network Backup Manager.pdf
+ 384   70 /media/New Volume/Lipika_FS/March/June_2009/Literature/ECECIS-ZFS.pdf
+ 385   82 /media/New Volume/Lipika_FS/March/June_2009/Literature/read only transactions.pdf
+ 386   87 /media/New Volume/Lipika_FS/March/June_2009/Literature/Isolation-only transactions.pdf
+ 387   119 /media/New Volume/Lipika_FS/March/June_2009/Literature/High Speed On-line Backup when Using Logical Log Operations.pdf
+ 388   127 /media/New Volume/Lipika_FS/March/June_2009/Literature/Enabling Transactional File Access via Lightweight Kernel Extension.pdf
+ 389   79 /media/New Volume/Lipika_FS/March/June_2009/Literature/Issues in online backup
+ 390   89 /media/New Volume/Lipika_FS/March/June_2009/Literature/serialization graph algorithm.pdf
+ 391   87 /media/New Volume/Lipika_FS/March/June_2009/Literature/The Real Problems of Backup.pdf
+ 392   111 /media/New Volume/Lipika_FS/March/June_2009/Literature/Long-term File activity and inter-reference patters.pdf
+ 393   123 /media/New Volume/Lipika_FS/March/June_2009/Literature/On-the-fly, Incremental, Consistent Reading of Entire Databases.pdf
+ 394   89 /media/New Volume/Lipika_FS/March/June_2009/Literature/Automating data dependability.pdf
+ 395   110 /media/New Volume/Lipika_FS/March/June_2009/Literature/LifeBoat-An Autonomic Backup and Restore Solutions.pdf
+ 396   74 /media/New Volume/Lipika_FS/March/June_2009/Literature/Margo's thesis.pdf
+ 397   121 /media/New Volume/Lipika_FS/March/June_2009/Literature/performance evaluationn of global reading of entire databases.pdf
+ 398   85 /media/New Volume/Lipika_FS/March/June_2009/Literature/Online backup and restore.pdf
+ 399   70 /media/New Volume/Lipika_FS/March/June_2009/Literature/snapmirror.pdf
+ 400   92 /media/New Volume/Lipika_FS/March/June_2009/Literature/multiversion concurrency control.pdf
+ 401   116 /media/New Volume/Lipika_FS/March/June_2009/Literature/A risk analysis of disk backup or repository maintenance.pdf
+ 402   83 /media/New Volume/Lipika_FS/March/June_2009/Literature/Issues in online backup.pdf
+ 403   65 /media/New Volume/Lipika_FS/March/June_2009/Literature/LIBTP.pdf
+ 404   69 /media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup.html
+ 405   114 /media/New Volume/Lipika_FS/March/June_2009/Literature/Parallel on-the-fly reading of an entire database copy.pdf
+ 406   70 /media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files
+ 407   81 /media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/screen.css
+ 408   89 /media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/serversbanner2.gif
+ 409   85 /media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/catc-style.css
+ 410   85 /media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/redarrows1.gif
+ 411   88 /media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/footer-nologo.gif
+ 412   91 /media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/cu_logo_unstyled.gif
+ 413   82 /media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/thin530.gif
+ 414   73 /media/New Volume/Lipika_FS/March/June_2009/Literature/Backup basics.pdf
+ 415   88 /media/New Volume/Lipika_FS/March/June_2009/Literature/Evaluating Backup Algorithms.pdf
+ 416   66 /media/New Volume/Lipika_FS/March/June_2009/Literature/porter.pdf
+ 417   76 /media/New Volume/Lipika_FS/March/June_2009/Literature/ROT in real time.pdf
+ 418   66 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009
+ 419   103 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.blg
+ 420   103 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.pdf
+ 421   75 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/temp.pdf
+ 422   103 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.aux
+ 423   89 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.tex.bak
+ 424   80 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof.tex.bak
+ 425   104 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.log
+ 426   94 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/please go through this.docx
+ 427   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof by graph.log
+ 428   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof by graph.tex
+ 429   104 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.blg
+ 430   89 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.tex.bak
+ 431   95 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo1.bbl
+ 432   104 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.pdf
+ 433   84 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/document6_new.log
+ 434   104 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.bbl
+ 435   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.tex
+ 436   103 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.log
+ 437   99 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.pdf
+ 438   95 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo1.pdf
+ 439   99 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.log
+ 440   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof by graph.bbl
+ 441   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/File Movement.docx
+ 442   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.bbl
+ 443   103 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.tex.sav
+ 444   75 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/temp.log
+ 445   84 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/document6.tex.bak
+ 446   104 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.aux
+ 447   99 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.tex
+ 448   95 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo1.log
+ 449   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.tex
+ 450   75 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/temp.tex
+ 451   99 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo1.tex.bak
+ 452   95 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo1.aux
+ 453   75 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/temp.aux
+ 454   103 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.tex
+ 455   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.pdf
+ 456   108 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.tex.bak
+ 457   103 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.dvi
+ 458   104 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.tex
+ 459   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.blg
+ 460   91 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/cascading undone.tex.bak
+ 461   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.aux
+ 462   95 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo1.blg
+ 463   99 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.bbl
+ 464   103 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.tex.bak
+ 465   84 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/document6_new.pdf
+ 466   91 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof with graph.tex.sav
+ 467   107 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.tex.bak
+ 468   99 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.blg
+ 469   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.pdf
+ 470   84 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/document6_new.tex
+ 471   87 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/cascading undone.tex
+ 472   99 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.aux
+ 473   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof by graph.blg
+ 474   103 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.bbl
+ 475   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.bbl
+ 476   88 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/document6_new.tex.bak
+ 477   89 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.tex.sav
+ 478   94 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo.aux
+ 479   96 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/single version algorithms.blg
+ 480   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof by graph.pdf
+ 481   87 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/cascading undone.bbl
+ 482   95 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo1.tex
+ 483   84 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/document6_new.aux
+ 484   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.log
+ 485   89 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof by graph.tex.bak
+ 486   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.log
+ 487   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.aux
+ 488   84 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/File Movement.pdf
+ 489   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof by graph.aux
+ 490   85 /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.blg
+ 490  

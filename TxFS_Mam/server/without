@@ -1,0 +1,146 @@
+
+stat1 (/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index_002.php)
+ R2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/webtrendsscript-bn20090916.js)
+ W3(/media/New Volume/Lipika_FS/March/June_2009/Literature/mutiversion concurrency control.pdf)
+stat4 (/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Theory with flat file strucure.aux)
+stat5 (/media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Writeups/theory1.pdf)
+ R1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.tex.bak)
+creat4(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/new,256)
+ W2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/ntfs_traversing.pdf)
+COMMIT 4
+stat5 (/media/New Volume/Lipika_FS/March/December_2009/Papers/Camera_RdyFinal.pdf)
+ W3(/media/New Volume/Lipika_FS/March/June_2009/Literature/Long-term File activity and inter-reference patters.pdf)
+rename6(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.pdf,/media/New Volume/Lipika_FS/March/Sep_2009/Backup/Temporal consistency/new)
+unlink5(/media/New Volume/Lipika_FS/March/December_2009/Progress Presentation/Consistent Online Backup.pptx)
+rename1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/wikibits.js,/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/new)
+ R2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/mwsuggest.js)
+stat5 (/media/New Volume/Lipika_FS/March/December_2009/Papers/fs_performance.pdf)
+ R6(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.tex)
+ W3(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.bbl)
+unlink1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/proof by graph.pdf)
+creat5(/media/New Volume/Lipika_FS/March/December_2009/new,256)
+ R1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Backup with Transactional NTFS.docx)
+rename2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/40px-Wikibooks-logo-en-noslogan.png,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/new)
+COMMIT 5
+ R6(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/file operation mappings.log)
+rename3(/media/New Volume/Lipika_FS/March/June_2009/Literature/multiversion concurrency control.pdf,/media/New Volume/Lipika_FS/March/June_2009/Literature/new)
+COMMIT 2
+ W3(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.aux)
+unlink7(/media/New Volume/Lipika_FS/March/December_2009/Papers/analysis of journalling file system.pdf)
+ R1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/wikimedia-button.png)
+ W8(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/commonPrint.css)
+ W7(/media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Transactions+file systems/Transaction Support in a Log-Structured File System.pdf)
+ R6(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Algorithm2.blg)
+rename3(/media/New Volume/Lipika_FS/March/June_2009/Literature/read only transactions.pdf,/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/new)
+unlink1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index.css)
+unlink8(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/wikimedia-button.png)
+ W3(/media/New Volume/Lipika_FS/March/June_2009/Literature/ROT in real time.pdf)
+ R1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.bbl)
+rename7(/media/New Volume/Lipika_FS/March/December_2009/Help in file transaction heuristics/p153-doraimani.pdf,/media/New Volume/Lipika_FS/March/December_2009/new)
+creat8(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/new,256)
+COMMIT 6
+ R7(/media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Transactions+file systems/spillane-1.pdf)
+creat8(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/new,256)
+COMMIT 3
+COMMIT 1
+ R9(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.tex.sav)
+rename8(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/injection_nh_graph.css,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/new)
+ W10(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.tex)
+Deadlock detection
+COMMIT 8
+ W7(/media/New Volume/Lipika_FS/March/December_2009/Papers/Camera_RdyFinal.pdf)
+rename11(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index_002.php,/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/new)
+ R9(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.tex.bak)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_002.css)
+ R11(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/index_003.css)
+stat10 (/media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/catc-style.css)
+rename7(/media/New Volume/Lipika_FS/March/December_2009/Papers/p492-fekete.pdf,/media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Writeups/new)
+unlink9(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Rivisions of theory with flat file structure.aux)
+ R10(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/document6_new.tex)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_002.css)
+COMMIT 7
+unlink11(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/document6_new.pdf)
+creat9(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/Dymanic data structures/new,256)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/shared.css)
+ W9(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup.aux)
+ R11(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/main.css)
+ W10(/media/New Volume/Lipika_FS/March/June_2009/Literature/Issues in online backup.pdf)
+unlink13(/media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Writeups/theory.pdf)
+ W13(/media/New Volume/Lipika_FS/March/December_2009/Papers/fs_performance.pdf)
+creat12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/new,256)
+stat9 (/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/Non flat file sytem.aux)
+rename11(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/poweredby_mediawiki_88x31.png,/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/new)
+COMMIT 10
+COMMIT 11
+ W9(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/backup1.pdf)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/centralnotice.js)
+ R13(/media/New Volume/Lipika_FS/March/December_2009/for definitions.pdf)
+ R14(/media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/thin530.gif)
+creat15(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/new,256)
+stat12 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/injection_nh_graph.css)
+COMMIT 9
+ W13(/media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Transactions+file systems/Transaction Support in a Log-Structured File System.pdf)
+stat15 (/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/mwsuggest.js)
+ W14(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.tex.bak)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/File_system_files/index_004.css)
+COMMIT 15
+ R16(/media/New Volume/Lipika_FS/March/Sep_2009/Backup/OCT272009/order of file operation.pdf)
+stat13 (/media/New Volume/Lipika_FS/March/December_2009/Progress Presentation)
+creat17(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/File_locking_files/new,256)
+ R14(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.tex.bak)
+COMMIT 16
+stat12 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125682FlightID75634TargetID2625SiteI.gif)
+creat13(/media/New Volume/Lipika_FS/March/December_2009/new,256)
+ W17(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).pdf)
+COMMIT 12
+COMMIT 13
+ R14(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/temp.pdf)
+ W17(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.bbl)
+ R18(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/main_002.css)
+ R19(/media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Transactions+file systems/Transaction Support in a Log-Structured File System.pdf)
+ W14(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/single version algorithms.blg)
+unlink17(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/Operations beyond read and write.pdf)
+COMMIT 14
+stat18 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/main.css)
+ W19(/media/New Volume/Lipika_FS/March/December_2009/Feb-March 2010/Writeups/theory1.pdf)
+rename17(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Backup with Transactional NTFS.docx,/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/new)
+ W20(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/File Movement.pdf)
+ W18(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/clear.gif)
+ R17(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.tex.bak)
+COMMIT 19
+rename20(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.tex.sav,/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/new)
+ R18(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/omni_rsid_msdn-bn20090916.js)
+COMMIT 17
+ W20(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.tex.bak)
+COMMIT 18
+ R20(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.blg)
+COMMIT 20
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection

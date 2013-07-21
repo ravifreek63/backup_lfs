@@ -1,0 +1,12 @@
+11
+9 
+txn_beg()
+11
+41
+creat(/yaffs2/file84.txt,S_IRUSR)
+11
+31
+open(/yaffs2/file84.txt,O_RDWR)
+11
+12
+txn_commit()

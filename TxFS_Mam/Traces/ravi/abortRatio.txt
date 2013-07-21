@@ -1,0 +1,5 @@
+Ratio of Aborts 0 abort ratio=0
+Ratio of Aborts 0.194805 abort ratio=0.2
+Ratio of Aborts 0.398601 abort ratio=0.4
+Ratio of Aborts 0.629371 abort ratio=0.6
+Ratio of Aborts 0.79021 abort ratio=0.8

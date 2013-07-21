@@ -1,0 +1,343 @@
+
+Deadlock detection
+ W2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/30px-Wikimedia_Community_Logo.png)
+ W3(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/wikibits.js)
+ W1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).tex.bak)
+rename5(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/mwsuggest.js,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/new)
+ W4(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.aux)
+ R5(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/injection_nh_graph.css)
+COMMIT 4
+ W3(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/40px-Commons-logo.png)
+ R2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index.css)
+ R1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.tex)
+stat5 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_004.css)
+ R2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/shared.css)
+unlink6(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/File Movement.docx)
+stat5 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/ajax.js)
+ W3(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/wikimedia-button.png)
+ R1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.tex.bak)
+ R5(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index.php)
+ W2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/main_002.css)
+creat6(/media/New Volume/Lipika_FS/March/June_2009/Literature/new,256)
+stat3 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/index_005.css)
+rename1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/lemma of cascading undo1.pdf,/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/new)
+ R5(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/poweredby_mediawiki_88x31.png)
+COMMIT 6
+ W3(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/index_002.css)
+stat1 (/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).tex)
+ R2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_004.css)
+stat7 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/centralnotice.js)
+creat1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/new,256)
+ W5(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/250px-Previous_Versions_Vista.png)
+ 7 is about to be blocked
+rename3(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/index_002.php,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/new)
+ R1(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Formalization of flat file structure.tex)
+unlink2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/20px-Wiki_letter_w.png)
+ W3(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/main_002.css)
+stat2 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/main.css)
+COMMIT 1
+stat5 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/skypeplugin_dropdownmenu.css)
+ R2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_005.css)
+ W5(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/wikimedia-button.png)
+ R3(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/300px-DirectoryListing1.png)
+stat8 (/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/tree structure.bbl)
+rename8(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.blg,/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/new)
+COMMIT 5
+ 7 has woken up to resume
+creat7(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/new,256)
+stat8 (/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Backup with Transactional NTFS.docx)
+Deadlock detection
+ R2(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_002.css)
+COMMIT 7
+COMMIT 3
+ W8(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/File Movement.pdf)
+ R11(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.tex.bak)
+ W9(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/poweredby_mediawiki_88x31.png)
+creat10(/media/New Volume/Lipika_FS/March/Concurrency control/new,256)
+COMMIT 2
+COMMIT 8
+ R9(/media/New Volume/Lipika_FS/March/Sep_2009/OCT272009/Algorithm1.aux)
+ W10(/media/New Volume/Lipika_FS/March/Concurrency control/dynamic adjustment of serializanility.pdf)
+stat12 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_002.css)
+stat11 (/media/New Volume/Lipika_FS/March/June_2009/Literature/LifeBoat-An Autonomic Backup and Restore Solutions.pdf)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_003.css)
+ R10(/media/New Volume/Lipika_FS/March/Concurrency control/semantic knowledge for concurrency.pdf)
+ W13(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/Operations beyond read and write.dvi)
+stat11 (/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/singe version implementation.tex.sav)
+ W9(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Theory with flat file strucure(2).tex)
+ R11(/media/New Volume/Lipika_FS/March/June_2009/Literature/Long-term File activity and inter-reference patters.pdf)
+stat10 (/media/New Volume/Lipika_FS/March/Concurrency control/sdarticle.pdf)
+ R13(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/document6_new.log)
+creat9(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/new,256)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_004.css)
+COMMIT 10
+ W11(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.bbl)
+creat9(/media/New Volume/Lipika_FS/March/Sep_2009/OCT272009/new,256)
+ W13(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof by graph.pdf)
+ R14(/media/New Volume/Lipika_FS/March/June_2009/Literature/Evaluating Backup Algorithms.pdf)
+ R9(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/How NTFS File System Works.docx)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/main.css)
+ W11(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo1.log)
+rename14(/media/New Volume/Lipika_FS/March/June_2009/Literature/A risk analysis of disk backup or repository maintenance.pdf,/media/New Volume/Lipika_FS/March/June_2009/Literature/new)
+ R13(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/document6_new.pdf)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/wikimedia-button.png)
+ W9(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/main_002.css)
+unlink11(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.pdf)
+stat14 (/media/New Volume/Lipika_FS/March/June_2009/Literature/serialization graph algorithm.pdf)
+ 11 is about to be blocked
+ 13 is about to be blocked
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/mwsuggest.js)
+stat14 (/media/New Volume/Lipika_FS/March/June_2009/Literature/ECECIS-ZFS.pdf)
+ W9(/media/New Volume/Lipika_FS/March/Sep_2009/OCT272009/file operation mappings.blg)
+rename14(/media/New Volume/Lipika_FS/March/June_2009/Literature/read only transactions.pdf,/media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/new)
+ W12(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index.css)
+ W9(/media/New Volume/Lipika_FS/March/Sep_2009/File_locking_files/commonPrint.css)
+stat14 (/media/New Volume/Lipika_FS/March/June_2009/Literature/Backup basics.pdf)
+stat12 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index.php)
+ W14(/media/New Volume/Lipika_FS/March/June_2009/Literature/Torture-testing backup and archive programs.pdf)
+ W9(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/formalization2.pdf)
+stat12 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/centralnotice.js)
+COMMIT 12
+ W14(/media/New Volume/Lipika_FS/March/June_2009/Literature/Survey of backup Techniques_1998)
+COMMIT 9
+ /media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/File Movement.docx does not exist
+ABORT 15
+ W14(/media/New Volume/Lipika_FS/March/June_2009/Literature/mutiversion concurrency control.pdf)
+ R16(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/injection_nh_graph.css)
+rename17(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125688FlightID75640TargetID2878S_002.gif,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/new)
+Deadlock detection
+COMMIT 14
+ 11 has woken up to resume
+unlink11(/media/New Volume/Lipika_FS/March/June_2009/Literature/snapfs in ext3.pdf)
+unlink16(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/MsdnMagazine-bn20090916.css)
+creat17(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/new,256)
+COMMIT 11
+ 13 has woken up to resume
+creat13(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/new,256)
+COMMIT 16
+ R13(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/propagation of transactions abort.tex.bak)
+ R17(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125688FlightID75640TargetID2878S_003.gif)
+ R18(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/Magazine-bn20090916.css)
+stat19 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_002.php)
+ 20 is about to be blocked
+ R19(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_004.css)
+ W18(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/resources.gif)
+ W17(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/injection_nh_graph.css)
+ W13(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/lemma of cascading undo1.bbl)
+ R19(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/main_002.css)
+ R18(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/WebResource.js)
+stat13 (/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization1.bbl)
+stat13 (/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/formalization2.log)
+ R17(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID240663FlightID153295TargetID6620Site.gif)
+ W19(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_005.css)
+creat18(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/new,256)
+COMMIT 13
+COMMIT 18
+ W17(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/additional_topic.gif)
+unlink19(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/wikimedia-button.png)
+ W21(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/mtps-bn20090916.js)
+ R19(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/centralnotice.js)
+ W22(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/trans_pixel.gif)
+COMMIT 17
+ 20 has woken up to resume
+stat20 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data)
+unlink20(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/injection_graph_func.js)
+creat23(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/new,256)
+COMMIT 21
+ R19(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index.css)
+ W24(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/index_002.css)
+ R20(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/cc163388.gif)
+ W22(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/How NTFS File System Works.docx)
+ R23(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Backup with Transactional NTFS.docx)
+ /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/20px-Wiki_letter_w.png does not exist
+ABORT 19
+COMMIT 24
+ R20(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/global-bn20090916.css)
+ W22(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID125688FlightID75640TargetID2878S_003.gif)
+ /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/lemma of cascading undo1.pdf does not exist
+ABORT 23
+creat25(/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/new,256)
+rename26(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/skypeplugin_dropdownmenu.css,/media/New Volume/Lipika_FS/March/Sep_2009/OCT272009/new)
+stat25 (/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/backup.pdf)
+ W20(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/additional_topic.gif)
+ W26(/media/New Volume/Lipika_FS/March/Sep_2009/File_locking_files/poweredby_mediawiki_88x31.png)
+ 22 is about to be blocked
+ update_wait_list About to be blocked 27
+stat25 (/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Backup with Transactional NTFS.docx)
+stat25 (/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/imp for notations.pdf)
+rename26(/media/New Volume/Lipika_FS/March/Sep_2009/File_locking_files/index_002.css,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/new)
+ /media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/lemma of cascading undo1.pdf does not exist
+ABORT 25
+stat20 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/TypecountClientType2AdID237559FlightID151312TargetID1285Site.gif)
+ R26(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/index_002.css)
+ R20(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/Silverlight-bn20090916.js)
+ W28(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/30px-Wikimedia_Community_Logo.png)
+stat26 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/300px-DirectoryListing1.png)
+ R20(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/mtps-bn20090916.js)
+ R26(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/injection_nh_graph.css)
+COMMIT 28
+ 29 is about to be blocked
+COMMIT 20
+ 29 has woken up to resume
+creat29(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/new,256)
+ R26(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/W_DevJAVA09_125x6003.gif)
+ 29 is about to be blocked
+ R30(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/30px-Wikimedia_Community_Logo.png)
+Deadlock detection
+rename26(/media/New Volume/Lipika_FS/March/Sep_2009/OCT272009/Theory with flat file strucure.tex,/media/New Volume/Lipika_FS/March/Sep_2009/IMPdonotdelet_19OCT2009/Final documents_29.9.09/new)
+ R30(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/main_002.css)
+COMMIT 26
+ 27 has woken up to resume
+rename27(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index.php,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/new)
+ 22 has woken up to resume
+ 22 is about to be blocked
+ R27(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/250px-Previous_Versions_Vista.png)
+ W31(/media/New Volume/Lipika_FS/March/June_2009/new latex_12 may 2009/proof by graph.pdf)
+unlink30(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/300px-DirectoryListing1.png)
+ R27(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_002.php)
+ R30(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/40px-Wikibooks-logo-en-noslogan.png)
+stat31 (/media/New Volume/Lipika_FS/March/June_2009/Literature/Efficient Distributed Backup with Delta Compression.pdf)
+COMMIT 31
+ W27(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/poweredby_mediawiki_88x31.png)
+COMMIT 30
+unlink32(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_004.css)
+ R27(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_005.css)
+ W33(/media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER6.pdf)
+ W32(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_005.css)
+ W27(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index_003.css)
+ W33(/media/New Volume/Lipika_FS/March/Concurrency control/ACTA2.pdf)
+ W32(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index.css)
+ R27(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/index.css)
+ W33(/media/New Volume/Lipika_FS/March/Concurrency control/semantic knowledge for concurrency.pdf)
+ W32(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/wikimedia-button.png)
+ R27(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/injection_nh_graph.css)
+stat33 (/media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER2.pdf)
+stat32 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_002.php)
+ W33(/media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER3.pdf)
+ /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/20px-Wiki_letter_w.png does not exist
+ABORT 32
+ /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/skypeplugin_dropdownmenu.css does not exist
+ABORT 27
+ 22 has woken up to resume
+rename22(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/wikibits.js,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/new)
+ 22 is about to be blocked
+unlink33(/media/New Volume/Lipika_FS/March/Concurrency control/book/CHAPTER5.pdf)
+ W35(/media/New Volume/Lipika_FS/March/June_2009/Literature/Backup basics.pdf)
+ R34(/media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/serversbanner2.gif)
+creat33(/media/New Volume/Lipika_FS/March/Concurrency control/new,256)
+ W33(/media/New Volume/Lipika_FS/March/Concurrency control/p23-adya.pdf)
+rename35(/media/New Volume/Lipika_FS/March/June_2009/Literature/multi-version disk backup data merging algorithm.pdf,/media/New Volume/Lipika_FS/March/June_2009/Literature/new)
+rename34(/media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/catc-style.css,/media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/new)
+ W34(/media/New Volume/Lipika_FS/March/June_2009/Literature/Evaluating Backup Algorithms.pdf)
+ 35 is about to be blocked
+stat33 (/media/New Volume/Lipika_FS/March/Concurrency control/GB_20_may_09.pdf)
+ ERROR on creat: Permission denied
+
+COMMIT 33
+ R36(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/ntfs_traversing.pdf)
+ 34 is about to be blocked
+ /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/MsdnMagazine-bn20090916.css does not exist
+ABORT 36
+ W37(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/ajax.js)
+rename37(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/index_004.css,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/new)
+ R37(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/30px-Wikimedia_Community_Logo.png)
+ W37(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/index_003.css)
+ R37(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/shared.css)
+ R37(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/commonPrint.css)
+Deadlock detection
+A cycle has been detected  and the cycle contains 22 and the cycle contains 29
+A cycle has been detected  and the cycle contains 34 and the cycle contains 35
+Aborting 22 to resolve deadlock
+ 22 has woken up to abort
+ABORT 22
+ 29 has woken up to resume
+unlink29(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/How NTFS File System Works.docx)
+rename29(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/cc163388_002.gif,/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/new)
+ W38(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/commonPrint.css)
+unlink29(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index_005.css)
+ R37(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/mwsuggest.js)
+ W29(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/wikibits.js)
+ W38(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index.php)
+ /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/300px-DirectoryListing1.png does not exist
+ABORT 37
+creat29(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/new,256)
+ 38 is about to be blocked
+ R29(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/cc163388.gif)
+ R39(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy.htm)
+ W29(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium.htm)
+stat39 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/mtps-bn20090916.css)
+ 39 is about to be blocked
+COMMIT 29
+ 39 has woken up to resume
+stat39 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files)
+ 38 has woken up to resume
+creat38(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/new,256)
+ R38(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/main.css)
+ R39(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/Silverlight-bn20090916.js)
+ R38(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/ajax.js)
+ R39(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/mtps-bn20090916.js)
+ R38(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/poweredby_mediawiki_88x31.png)
+ W39(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/poweredby_mediawiki_88x31.png)
+ R38(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/index.css)
+unlink39(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/cc163388.aspx_files/msdn_premium_data/10759-79517-24754-1.gif)
+ W39(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/NTFS/Shadow_Copy_files/main_002.css)
+ W38(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/Procfs_files/wikibits.js)
+COMMIT 39
+COMMIT 38
+Deadlock detection
+A cycle has been detected  and the cycle contains 34 and the cycle contains 35
+Aborting 34 to resolve deadlock
+ 34 has woken up to abort
+ABORT 34
+ 35 has woken up to resume
+rename35(/media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/cu_logo_unstyled.gif,/media/New Volume/Lipika_FS/March/June_2009/Literature/mfbackup_files/new)
+ W35(/media/New Volume/Lipika_FS/March/June_2009/Literature/mutiversion concurrency control.pdf)
+stat35 (/media/New Volume/Lipika_FS/March/June_2009/Literature/High Speed On-line Backup when Using Logical Log Operations.pdf)
+ W35(/media/New Volume/Lipika_FS/March/June_2009/Literature/The Amanda Network Backup Manager.pdf)
+ R35(/media/New Volume/Lipika_FS/March/June_2009/Literature/snapmirror.pdf)
+stat35 (/media/New Volume/Lipika_FS/March/June_2009/Literature/Cumulus_Filesystem Backup to the Cloud.pdf)
+COMMIT 35
+ W40(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/commonPrint.css)
+ R40(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/poweredby_mediawiki_88x31.png)
+stat40 (/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/wikibits.js)
+ R40(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/main_002.css)
+creat40(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/new,256)
+ R40(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/centralnotice.js)
+ R40(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/40px-Text_document_with_red_question_mark.png)
+ W40(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/40px-Commons-logo.png)
+ W40(/media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/index_004.css)
+ /media/New Volume/Lipika_FS/March/Sep_2009/Interesting file system papers/File_system_files/300px-DirectoryListing1.png does not exist
+ABORT 40
+ Number of user conflict 14
+ Number of tb conflict 0
+ Number of MS conflict 0
+ Number of user aborted due to MS conflict 0
+ Number of user waiting due to MS conflict 0
+ Number of transactions that has to be aborted after pausing 0
+ Number of transactions that needs to be aborted to resolve deadloack 2
+ Time taken for complete run 13
+ Time taken for only application transactions 12
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection
+Deadlock detection

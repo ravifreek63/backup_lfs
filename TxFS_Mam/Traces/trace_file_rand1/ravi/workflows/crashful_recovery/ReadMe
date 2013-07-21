@@ -1,0 +1,2 @@
+Through tests 1 & 2 we try to test that the persistence of the transactions actually remains. 
+test1 writes on file.txt and test2 re-writes on the same file. There-after the inode becomes invalid. On a re-scan we observe that the transaction with ids 2 and 3 are both in a committed state.

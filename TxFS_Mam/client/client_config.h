@@ -1,0 +1,5 @@
+#ifndef CLIENT_CONFIG_H
+#define CLIENT_CONFIG_H
+#define PORTNO 3000
+#define MAX_BUFFER_SIZE 10250
+#endif
